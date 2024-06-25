@@ -34,10 +34,7 @@ select * from contatos;
 JdbcInsere: É uma classe que insere os dados mas não é adequado pra esse trabalho
 TestaDaoInsere: É uma classe para testar se a inserção de dados está funcionando.
 TesteContato: É a classe que você usa para criar o menu interativo do seu sistema.
-
-[Pacote View]
-     |   
-     |---> TestaContato( Será a classe que é responsável por exibir as opções para o usuario se cadastrar no                                                   terminal )
+TestaContato( Será a classe que é responsável por exibir as opções para o usuario se cadastrar no terminal )
       	
 
 
